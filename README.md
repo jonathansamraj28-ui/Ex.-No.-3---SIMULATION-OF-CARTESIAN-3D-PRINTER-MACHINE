@@ -59,7 +59,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![WhatsApp Image 2025-12-27 at 3 43 24 PM](https://github.com/user-attachments/assets/d3b69ff0-c472-43f2-8bf7-182048454433)
+![WhatsApp Image 2025-12-27 at 3 43 00 PM](https://github.com/user-attachments/assets/e2270d17-a344-410f-bebf-78624f94c9d6)
+
 
 
 ### Name: jonathan samraj A
